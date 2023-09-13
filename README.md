@@ -135,4 +135,4 @@
 </table>
 
 ## 4 License
-Pawo is made available under the Apache License. Please see License File for more information.
+Contrans is made available under the MIT License. Please see License File for more information.
