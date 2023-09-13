@@ -1,8 +1,8 @@
-<p align="center"><a href="https://pawo-app.skrt.cc/" target="_blank">
-    <img height="150px" src="https://github.com/maoleng/pawo/assets/91431461/47245874-9af9-4fc3-8ef1-037f845ec23d">
+<p align="center"><a href="" target="_blank">
+    <img height="150px" src="">
 </a></p>
 
-[Pawo](https://pawo-app.skrt.cc/) is a is a platform that leverages blockchain technology and smart contracts for freelancing services. It enables direct and secure peer-to-peer transactions between freelancers and employers.
+[Contrans]() is a is a platform that leverages blockchain technology and smart contracts for freelancing services. It enables direct and secure peer-to-peer transactions between freelancers and employers.
 
 <table align="center">
 	<tr>
