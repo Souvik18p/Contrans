@@ -1,19 +1,11 @@
-<p align="center"><a href="" target="_blank">
-    <img height="150px" src="">
+
+
 </a></p>
 
 [Contrans]() is a is a platform that leverages blockchain technology and smart contracts for freelancing services. It enables direct and secure peer-to-peer transactions between freelancers and employers.
 
 <table align="center">
-	<tr>
-		<td><image width="48px" src="https://github.com/maoleng/pawo/assets/91431461/6e547b3a-08c8-4bee-9713-d80987305a64"></td>
-		<td><image width="48px" src="https://github.com/maoleng/pawo/assets/91431461/14674063-5378-4d76-b46e-6a987e218203"></td>
-		<td><image width="48px" src="https://github.com/maoleng/pawo/assets/91431461/bf89b968-6cdf-4659-8cb4-dff3266ca964"></td>
-		<td><image width="48px" src="https://github.com/maoleng/pawo/assets/91431461/c97a0b56-7ad0-4a82-a3a8-23290a945bc1"></td>
-		<td><image width="48px" src="https://github.com/maoleng/pawo/assets/91431461/11ac49b4-ca7f-4867-8e95-12854d8b5e96"></td>
-		<td><image width="48px" src="https://laravel.com/img/logomark.min.svg"></td>
-		<td><image width="48px" src="https://github.com/maoleng/pawo/assets/91431461/9adb5c89-7047-4f80-83fb-56f29f710486"></td>
-	</tr>
+	
 </table>
 
 
